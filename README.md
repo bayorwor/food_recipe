@@ -1,4 +1,4 @@
-# familicious_app
+# food recipe app
 
 A flutter application that allows users to view all kinds of recipes and bookmark the ones you like to local storage using sqlite. Users can view videos of recipes, bookmark and delete recipes.
 
@@ -18,14 +18,18 @@ This project was an assignment given to us by our able Facilitator to test each 
 
 ## Art
 
+
 <br>
    
 <tr>
-    <td><img align="left" width="350" alt="Screen Shot 2021-10-21 at 10 24 40 PM" src="https://user-images.githubusercontent.com/49689322/138366134-a7716b4b-7ff8-4230-9845-f2058a526d1f.png" />
-    <img align="left" width="350" alt="Screen Shot 2021-10-21 at 10 25 07 PM" src="https://user-images.githubusercontent.com/49689322/138366189-4153b351-f2e1-49ed-b534-0efc869aa834.png" />
-    <img  align="left"  width="350" alt="Screen Shot 2021-10-21 at 10 25 30 PM" src="https://user-images.githubusercontent.com/49689322/138366208-c72ff0b4-45b3-4c0d-90be-761f6da00628.png" />
-    <img width="350" alt="Screen Shot 2021-10-21 at 10 29 31 PM" src="https://user-images.githubusercontent.com/49689322/138491451-a945dfbd-20ed-4779-b0ac-4ad8a1308e47.png" /></td> 
+    <td>
+       <img width="350" align="left" alt="Screen Shot 2021-10-23 at 10 39 19 PM" src="https://user-images.githubusercontent.com/49689322/138573684-3df86c23-419c-4847-8eeb-e073f6b52824.png">
+      <img width="350"  align="left" alt="Screen Shot 2021-10-23 at 10 40 48 PM" src="https://user-images.githubusercontent.com/49689322/138573690-c2844fd3-2bbd-422e-8471-f376059b4a05.png">
+      <img width="350" align="left" alt="Screen Shot 2021-10-23 at 10 39 35 PM" src="https://user-images.githubusercontent.com/49689322/138573696-f18bfc96-e26d-4638-9bc2-3fa06b7ceacd.png">
+      <img width="350" alt="Screen Shot 2021-10-23 at 10 39 59 PM" src="https://user-images.githubusercontent.com/49689322/138573699-03e3ebe2-3fd0-43eb-a03d-8469226c771f.png">
+   </td> 
 </tr>
+<br />
 ## Getting Started
 
 This project is a starting point for a Flutter application.
